@@ -31,4 +31,4 @@ Automated_maskDet_DS is a sophisticated machine learning project designed to enh
     python detect_mask_video.py
     ```
 
-2. The script will start processing the video feed and will display the video with mask detection and path tracking.
+2. The script will start processing the video feed and will display the video with mask detection and path tracking..
